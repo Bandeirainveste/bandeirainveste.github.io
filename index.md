@@ -67,7 +67,3 @@ Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
 - [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
 - [FRP Unconference](https://collective.flashbots.net/t/frp-unconference/2969) — event page and agenda
 
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
