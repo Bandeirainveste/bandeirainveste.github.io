@@ -9,7 +9,7 @@ where I've been since 2023. Flashbots is an R&D organization
 working to illuminate, democratize, and distribute maximal extractable value (MEV) through open research and products.
 MEV arises whenever a privileged actor has control over a system in which there
 is a conflict over resources. Our work brings together economics, mechanism
-design, distributed systems, cryptography, and open source development, aimed at
+design, distributed systems, cryptography, and open source development. We work on
 research problems relevant to Ethereum. You can learn about our past research and
 work in progress in our
 [research problem database](https://www.flashbots.net/research-database). 
