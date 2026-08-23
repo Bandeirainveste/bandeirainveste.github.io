@@ -21,7 +21,7 @@ at the intersection of blockchain and AI, along with idea transfer to industry.
 
 Before moving into blockchain research management, I worked on a clinical trial
 team in [Brad Manor's lab](https://www.marcusinstituteforaging.org/who-we-are/profiles/brad-manor-phd)
-at the Hinda and Arthur Marcus Institute for Aging Research, using transcranial
+at the Marcus Institute for Aging Research, using transcranial
 direct current stimulation (tDCS) in trials for longevity and the treatment of
 neurodegenerative illness.
 
