@@ -86,11 +86,11 @@ Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
 From 2023 to 2025 I contributed to governance, research, and mechanism design for
 the [Optimism Collective](https://gov.optimism.io/)'s Citizens' House and its
 Retroactive Public Goods Funding (RetroPGF, later Retro Funding) program. I served
-on the Collective Feedback Commission — Optimism's research advisory panel to the
-Foundation — in both its
+on the Collective Feedback Commission, Optimism's research advisory panel to the
+Foundation, in both its
 [pilot](https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863)
-and [second](https://gov.optimism.io/t/season-7-cfc-membership/9131) cohorts,
-working on voting design and on applying Voting-Bloc Entropy as a measure of power
+and [second](https://gov.optimism.io/t/season-7-cfc-membership/9131) cohorts. There I
+worked on voting system design and on applying Voting-Bloc Entropy as a measure of power
 concentration in the Collective. I was also a Citizen and voter in the experiments
 I helped design.
 
@@ -108,7 +108,7 @@ I helped design.
 ## FRP
 I administer the Flashbots Research grant program, FRP, which is currently on hiatus. 
 
-- [FRP repo](https://github.com/flashbots/mev-research/tree/main)
+- [FRP Repo](https://github.com/flashbots/mev-research/tree/main)
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
 - [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
 - [FRP Unconference](https://collective.flashbots.net/t/frp-unconference/2969) — event page and agenda
