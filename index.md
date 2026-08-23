@@ -29,11 +29,11 @@ In addition to MEV, I get excited about metascience, open research, AI safety,
 and the application of compute to longevity research. I think this is the best
 time in history to be alive.
 
-Offline, I'm training a Bernese Mountain Dog mix puppy, reading a lot of fiction
+Offline, I'm training a Bernese Mountain Dog mix puppy and reading a lot of fiction
 (some recent favorites: [Whistler](https://www.annpatchett.com/whistler) by Ann
 Patchett, [The Song of Achilles](https://madelinemiller.com/the-song-of-achilles/)
 by Madeline Miller, and [The Overstory](https://www.richardpowers.net/the-overstory/)
-by Richard Powers), and learning about forestry management.
+by Richard Powers).
 
 ## Selected Research
 
