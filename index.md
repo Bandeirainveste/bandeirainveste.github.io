@@ -50,6 +50,8 @@ James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelk
 
 **Workshop Organization**
 
+- Technical Committee, [IC3 Blockchain Camp](https://www.initc3.org/events) — annually, 2020–2025
+- Technical Committee, [IC3 Winter Retreat](https://www.initc3.org/events) — annually, 2020–2026
 - Organizer, [MEV-SBC '26](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2026-mev-sbc-26/5636) — Stanford University, July 2026
 - Organizer, [MEV-SBC '25](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2025-mev-sbc-25/4880) — UC Berkeley, August 2025
 - Organizer, [MEV-SBC '24](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2024-mev-sbc-24/3527) — Cornell Tech, August 2024
