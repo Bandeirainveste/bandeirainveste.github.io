@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hi, I'm Sarah. I lead the research org at [Flashbots](https://www.flashbots.net/),
-where I've been since 2023. Flashbots is an R&D organization
+where I've been since 2022. Flashbots is an R&D organization
 working to illuminate, democratize, and distribute maximal extractable value (MEV) through open research and products.
 MEV arises whenever a privileged actor has control over a system in which there
 is a conflict over resources. Our multidisciplinary team of 12 researchers bring together backgrounds in economics, mechanism
