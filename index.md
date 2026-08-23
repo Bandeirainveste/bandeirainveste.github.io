@@ -12,7 +12,7 @@ is a conflict over resources. Our work brings together economics, mechanism
 design, distributed systems, cryptography, and open source development, aimed at
 research problems relevant to Ethereum. You can learn about our past research and
 work in progress in our
-[research problem database](https://www.flashbots.net/research-database).
+[research problem database](https://www.flashbots.net/research-database). I administer the Flashbots research grants program ([FRP](https://github.com/flashbots/mev-research/tree/main),currently on hiatus). 
 
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
 Initiative for Cryptocurrencies and Contracts, where I've been since 2019. There
@@ -79,7 +79,22 @@ Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
 [[paper](https://arxiv.org/abs/2105.04380)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-47751-5_14)]
 
 
-## Workshop Organization
+## Service
+
+### Governance
+
+From 2023 to 2025 I contributed to governance, research, and mechanism design for
+the [Optimism Collective](https://gov.optimism.io/)'s Citizens' House and its
+Retroactive Public Goods Funding (RetroPGF, later Retro Funding) program. I served
+on the Collective Feedback Commission — Optimism's research advisory panel to the
+Foundation — in both its
+[pilot](https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863)
+and [second](https://gov.optimism.io/t/season-7-cfc-membership/9131) cohorts,
+working on voting design and on applying Voting-Bloc Entropy as a measure of power
+concentration in the Collective. I was also a Citizen and voter in the experiments
+I helped design.
+
+### Academic Workshop Organization
 
 - Organizer, [MEV-SBC '26](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2026-mev-sbc-26/5636) — Stanford University, July 2026
 - Organizer, [MEV-SBC '25](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2025-mev-sbc-25/4880) — UC Berkeley, August 2025
