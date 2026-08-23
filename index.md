@@ -50,7 +50,7 @@ Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
 [[paper](https://arxiv.org/abs/2105.04380)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-47751-5_14)]
 
 
-## Workshop Organization**
+## Workshop Organization
 
 - Organizer, [MEV-SBC '26](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2026-mev-sbc-26/5636) — Stanford University, July 2026
 - Organizer, [MEV-SBC '25](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2025-mev-sbc-25/4880) — UC Berkeley, August 2025
@@ -61,7 +61,7 @@ Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
 - Organizer, [DeFi Workshop at Financial Cryptography and Data Security (FC)](https://link.springer.com/book/10.1007/978-3-031-69231-4) — Willemstad, Curaçao, March 2024
 - Organizer, [TLDR Conference](https://easychair.org/cfp/TLDR24) — The Latest in DeFi Research, 2024
 
-## FRP**
+## FRP
 
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
 - [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
