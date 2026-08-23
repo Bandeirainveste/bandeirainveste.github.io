@@ -5,28 +5,31 @@ layout: homepage
 ## About Me
 
 Hi, I'm Sarah. I lead the research org at [Flashbots](https://www.flashbots.net/),
-where I've been since 2022. Flashbots is an R&D organization
-founded to illuminate, democratize, and distribute maximal extractable value (MEV) through open research and products.
-MEV arises whenever a privileged actor has control over a system in which there
-is a conflict over resources. Our multidisciplinary team of 12 researchers bring together backgrounds in economics, mechanism
-design, distributed systems, cryptography, and open source development to illuminate MEV through open contributions to knowledge and influence on Flashbots products. We work on problems relevant to Ethereum. You can learn about our past research and
-work in progress in our
-[research problem database](https://www.flashbots.net/research-database). 
+where I've been since 2023. Flashbots is an R&D organization founded to
+illuminate, democratize, and distribute maximal extractable value (MEV) through
+open research and products. MEV arises whenever a privileged actor has control
+over a system in which there is a conflict over resources. Our team brings
+together economics, mechanism design, distributed systems, cryptography, and open
+source development, working on problems relevant to Ethereum. You can learn about
+our past research and work in progress in our
+[research problem database](https://www.flashbots.net/research-database).
 
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
 Initiative for Cryptocurrencies and Contracts, where I've been since 2019. There
 I coordinate multidisciplinary, multi-campus research projects in blockchain and
-at the intersection of blockchain and AI, along with bidirectional idea transfer with industry. I contribute directly to research projects with mentorship from IC3 Co-Director [Ari Juels](https://www.arijuels.com/).
+at the intersection of blockchain and AI, and work on moving ideas between
+academia and industry. I contribute directly to research projects, often in
+collaboration with IC3 Co-Director [Ari Juels](https://www.arijuels.com/).
 
 Before moving into blockchain research management, I worked on a clinical trial
 team in [Brad Manor's lab](https://www.marcusinstituteforaging.org/who-we-are/profiles/brad-manor-phd)
-at the Marcus Institute for Aging Research, using transcranial
-direct current stimulation (tDCS) in trials for longevity and the treatment of
-neurodegenerative illness.
+at the Marcus Institute for Aging Research, using transcranial direct current
+stimulation (tDCS) in trials for longevity and the treatment of neurodegenerative
+illness.
 
-In addition to MEV, I get excited about metascience, open research, AI safety and governance,
-and the application of compute to longevity research. I think this is the best
-time in history to be alive.
+In addition to MEV, I get excited about metascience, open research, AI safety and
+governance, and the application of compute to longevity research. I think this is
+the best time in history to be alive.
 
 Offline, I'm training a Bernese Mountain Dog mix puppy and reading a lot of fiction
 (some recent favorites: [Whistler](https://www.annpatchett.com/whistler) by Ann
@@ -37,14 +40,29 @@ by Richard Powers).
 ## Selected Research
 
 **Crypto x AI, AI x Crypto: A Survey**<br>
-**Sarah Allen**, Pranay Anchuri, James Austgen, Maryam Bahrani, Roi Bar-Zur, Samuel Breckenridge, Aaron Buchwald, Christian Cachin, James Hsin-yu Chiang, Neil DeSilva, Ittay Eyal, Andrés Fábrega, Giulia Fanti, Jared Fernandez, Ari Juels, Andrew Miller, Marwa Mouallem, Christian Sillaber, Dani Vilardell, Pramod Viswanath, Wenhao Wang, Matt Weinberg, Sen Yang, Jianzhu Yao, Fan Zhang
-*Preprint, 2026. Authors listed alphabetically. Editors: Giulia Fanti and Ari Juels.*
+**Sarah Allen**, Pranay Anchuri, James Austgen, Maryam Bahrani, Roi Bar-Zur, Samuel Breckenridge, Aaron Buchwald, Christian Cachin, James Hsin-yu Chiang, Neil DeSilva, Ittay Eyal, Andrés Fábrega, Giulia Fanti, Jared Fernandez, Ari Juels, Andrew Miller, Marwa Mouallem, Christian Sillaber, Dani Vilardell, Pramod Viswanath, Wenhao Wang, Matt Weinberg, Sen Yang, Jianzhu Yao, Fan Zhang<br>
+*Preprint, 2026. Authors listed alphabetically. Editors: Giulia Fanti and Ari Juels.*<br>
 [[paper](https://arxiv.org/abs/2606.13892)]
 
 **The CoinAlg Bind: Profitability-Fairness Tradeoffs in Collective Investment Algorithms**<br>
-Andrés Fábrega, James Austgen, Samuel Breckenridge, Jay Yu, Amy Zhao, **Sarah Allen**, Aditya Saraf, Ari Juels
-*Preprint, 2026*
+Andrés Fábrega, James Austgen, Samuel Breckenridge, Jay Yu, Amy Zhao, **Sarah Allen**, Aditya Saraf, Ari Juels<br>
+*Preprint, 2026*<br>
 [[paper](https://arxiv.org/abs/2601.00523)]
+
+**Voting-Bloc Entropy: A New Metric for DAO Decentralization**<br>
+Andrés Fábrega, Amy Zhao, Jay Yu, James Austgen, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels<br>
+*34th USENIX Security Symposium, 2025*<br>
+[[paper](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega-entropy)] [[arXiv](https://arxiv.org/abs/2509.22620)]
+
+**Liquefaction: Privately Liquefying Blockchain Assets**<br>
+James Austgen, Andrés Fábrega, Mahimna Kelkar, Dani Vilardell, **Sarah Allen**, Kushal Babel, Jay Yu, Ari Juels<br>
+*IEEE Symposium on Security and Privacy (S&P), 2025*<br>
+[[paper](https://arxiv.org/abs/2412.02634)] [[IEEE](https://ieeexplore.ieee.org/document/11023306/)]
+
+**Forsage: Anatomy of a Smart-Contract Pyramid Scheme**<br>
+Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels<br>
+*Financial Cryptography and Data Security (FC), 2023*<br>
+[[paper](https://arxiv.org/abs/2105.04380)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-47751-5_14)]
 
 **DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**<br>
 James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels<br>
@@ -52,31 +70,15 @@ James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelk
 [[paper](https://arxiv.org/abs/2311.03530)]<br>
 ▶ **[Watch my Devcon SEA talk on Dark DAOs](https://www.youtube.com/watch?v=dC3pIbvEte0)**
 
-**Liquefaction: Privately Liquefying Blockchain Assets**<br>
-James Austgen, Andrés Fábrega, Mahimna Kelkar, Dani Vilardell, **Sarah Allen**, Kushal Babel, Jay Yu, Ari Juels
-*IEEE Symposium on Security and Privacy (S&P), 2025*
-[[paper](https://arxiv.org/abs/2412.02634)] [[IEEE](https://ieeexplore.ieee.org/document/11023306/)]
-
-**Voting-Bloc Entropy: A New Metric for DAO Decentralization**<br>
-Andrés Fábrega, Amy Zhao, Jay Yu, James Austgen, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels
-*34th USENIX Security Symposium, 2025*
-[[paper](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega-entropy)] [[arXiv](https://arxiv.org/abs/2509.22620)]
-
-**Design Choices for Central Bank Digital Currency: Policy and Technical Considerations**<br>
-**Sarah Allen**, Srđjan Čapkun, Ittay Eyal, Giulia Fanti, Bryan A. Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, Fan Zhang
-*NBER Working Paper No. 27634, 2020. Authors listed alphabetically.*
-[[paper](https://www.nber.org/papers/w27634)]
-
 **NFTs for Art and Collectables: Primer and Outlook**<br>
-**Sarah Allen**, Ari Juels, Mukti Khaire, Tyler Kell, Siddhant Shrivastava
-*Preprint, 2022*
+**Sarah Allen**, Ari Juels, Mukti Khaire, Tyler Kell, Siddhant Shrivastava<br>
+*Preprint, 2022*<br>
 [[paper](https://osf.io/preprints/socarxiv/gwzd7)]
 
-**Forsage: Anatomy of a Smart-Contract Pyramid Scheme**<br>
-Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
-*Financial Cryptography and Data Security (FC), 2023*
-[[paper](https://arxiv.org/abs/2105.04380)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-47751-5_14)]
-
+**Design Choices for Central Bank Digital Currency: Policy and Technical Considerations**<br>
+**Sarah Allen**, Srđjan Čapkun, Ittay Eyal, Giulia Fanti, Bryan A. Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, Fan Zhang<br>
+*NBER Working Paper No. 27634, 2020. Authors listed alphabetically.*<br>
+[[paper](https://www.nber.org/papers/w27634)]
 
 ## Service
 
@@ -89,9 +91,9 @@ on the Collective Feedback Commission, Optimism's research advisory panel to the
 Foundation, in both its
 [pilot](https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863)
 and [second](https://gov.optimism.io/t/season-7-cfc-membership/9131) cohorts. There I
-worked on voting system design and on applying Voting-Bloc Entropy as a measure of power
-concentration in the Collective. I was also a Citizen and voter in the experiments
-I helped design.
+worked on voting system design and on applying Voting-Bloc Entropy as a measure of
+power concentration in the Collective. I was also a Citizen and voter in the
+experiments I helped design.
 
 ### Academic Workshop Organization
 
@@ -104,12 +106,12 @@ I helped design.
 - Organizer, [DeFi Workshop at Financial Cryptography and Data Security (FC)](https://link.springer.com/book/10.1007/978-3-031-69231-4) — Willemstad, Curaçao, March 2024
 - Organizer, [TLDR Conference](https://easychair.org/cfp/TLDR24) — The Latest in DeFi Research, 2024
 
-## FRP
-I administer the Flashbots Research Proposals (FRP) grant program. 
+### Flashbots Research Proposals (FRP)
+
+I administer the Flashbots Research Proposals (FRP) grant program.
 
 - [FRP Repo](https://github.com/flashbots/mev-research/tree/main) — grant giving is currently paused
 - [Completed FRPs](https://github.com/flashbots/mev-research/tree/main/FRPs/completed)
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
 - [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
 - [FRP Unconference](https://collective.flashbots.net/t/frp-unconference/2969) — event page and agenda
-
