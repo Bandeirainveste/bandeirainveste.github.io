@@ -17,7 +17,7 @@ work in progress in our
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
 Initiative for Cryptocurrencies and Contracts, where I've been since 2019. There
 I coordinate multidisciplinary, multi-campus research projects in blockchain and
-at the intersection of blockchain and AI, along with bidirectional idea transfer with industry. I also contribute directly to research projects with mentorship from IC3 Co-Director [Ari Juels](https://www.arijuels.com/).
+at the intersection of blockchain and AI, along with bidirectional idea transfer with industry. I contribute directly to research projects with mentorship from IC3 Co-Director [Ari Juels](https://www.arijuels.com/).
 
 Before moving into blockchain research management, I worked on a clinical trial
 team in [Brad Manor's lab](https://www.marcusinstituteforaging.org/who-we-are/profiles/brad-manor-phd)
