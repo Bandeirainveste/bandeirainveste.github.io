@@ -18,11 +18,6 @@ Andrés Fábrega, James Austgen, Samuel Breckenridge, Jay Yu, Amy Zhao, **Sarah 
 *Preprint, 2026*
 [[paper](https://arxiv.org/abs/2601.00523)]
 
-**Design Choices for Central Bank Digital Currency: Policy and Technical Considerations**
-**Sarah Allen**, Srđjan Čapkun, Ittay Eyal, Giulia Fanti, Bryan A. Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, Fan Zhang
-*NBER Working Paper No. 27634, 2020. Authors listed alphabetically.*
-[[paper](https://www.nber.org/papers/w27634)]
-
 **DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**
 James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels
 *Preprint, 2023. Superseded by Voting-Bloc Entropy and Liquefaction. \*Equal contribution.*
@@ -38,6 +33,11 @@ James Austgen, Andrés Fábrega, Mahimna Kelkar, Dani Vilardell, **Sarah Allen**
 Andrés Fábrega, Amy Zhao, Jay Yu, James Austgen, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels
 *34th USENIX Security Symposium, 2025*
 [[paper](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega-entropy)] [[arXiv](https://arxiv.org/abs/2509.22620)]
+
+**Design Choices for Central Bank Digital Currency: Policy and Technical Considerations**
+**Sarah Allen**, Srđjan Čapkun, Ittay Eyal, Giulia Fanti, Bryan A. Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, Fan Zhang
+*NBER Working Paper No. 27634, 2020. Authors listed alphabetically.*
+[[paper](https://www.nber.org/papers/w27634)]
 
 **NFTs for Art and Collectables: Primer and Outlook**
 **Sarah Allen**, Ari Juels, Mukti Khaire, Tyler Kell, Siddhant Shrivastava
