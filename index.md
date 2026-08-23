@@ -106,7 +106,7 @@ I helped design.
 - Organizer, [TLDR Conference](https://easychair.org/cfp/TLDR24) — The Latest in DeFi Research, 2024
 
 ## FRP
-I administer the Flashbots Research grant program, FRP. 
+I administer the Flashbots Research Proposals (FRP) grant program. 
 
 - [FRP Repo](https://github.com/flashbots/mev-research/tree/main) — grant giving is currently paused
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
