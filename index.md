@@ -23,6 +23,12 @@ Andrés Fábrega, James Austgen, Samuel Breckenridge, Jay Yu, Amy Zhao, **Sarah 
 *NBER Working Paper No. 27634, 2020. Authors listed alphabetically.*
 [[paper](https://www.nber.org/papers/w27634)]
 
+**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**
+James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels
+*Preprint, 2023. Superseded by Voting-Bloc Entropy and Liquefaction. \*Equal contribution.*
+[[paper](https://arxiv.org/abs/2311.03530)]
+▶ **[Watch my Devcon SEA talk on Dark DAOs](https://www.youtube.com/watch?v=dC3pIbvEte0)**
+
 **Liquefaction: Privately Liquefying Blockchain Assets**
 James Austgen, Andrés Fábrega, Mahimna Kelkar, Dani Vilardell, **Sarah Allen**, Kushal Babel, Jay Yu, Ari Juels
 *IEEE Symposium on Security and Privacy (S&P), 2025*
@@ -43,12 +49,8 @@ Tyler Kell, Haaroon Yousaf, **Sarah Allen**, Sarah Meiklejohn, Ari Juels
 *Financial Cryptography and Data Security (FC), 2023*
 [[paper](https://arxiv.org/abs/2105.04380)] [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-47751-5_14)]
 
-**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**
-James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels
-*Preprint, 2023. Superseded by Voting-Bloc Entropy and Liquefaction. \*Equal contribution.*
-[[paper](https://arxiv.org/abs/2311.03530)]
 
-**Workshop Organization**
+## Workshop Organization**
 
 - Organizer, [MEV-SBC '26](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2026-mev-sbc-26/5636) — Stanford University, July 2026
 - Organizer, [MEV-SBC '25](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2025-mev-sbc-25/4880) — UC Berkeley, August 2025
@@ -59,13 +61,11 @@ James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelk
 - Organizer, [DeFi Workshop at Financial Cryptography and Data Security (FC)](https://link.springer.com/book/10.1007/978-3-031-69231-4) — Willemstad, Curaçao, March 2024
 - Organizer, [TLDR Conference](https://easychair.org/cfp/TLDR24) — The Latest in DeFi Research, 2024
 
-**Invited Talks**
-
-- [Dark DAOs and Private Coordination](https://www.youtube.com/watch?v=dC3pIbvEte0) — Devcon SEA, Bangkok, November 2024 *(recording)*
-
-## Writing
+## FRP**
 
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
+- [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
+- [FRP Unconference](https://collective.flashbots.net/t/frp-unconference/2969) — event page and agenda
 
 
 {% include_relative _includes/publications.md %}
