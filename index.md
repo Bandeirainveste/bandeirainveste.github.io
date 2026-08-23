@@ -25,7 +25,7 @@ at the Marcus Institute for Aging Research, using transcranial
 direct current stimulation (tDCS) in trials for longevity and the treatment of
 neurodegenerative illness.
 
-In addition to MEV, I get excited about metascience, open research, AI safety,
+In addition to MEV, I get excited about metascience, open research, AI safety and governance,
 and the application of compute to longevity research. I think this is the best
 time in history to be alive.
 
