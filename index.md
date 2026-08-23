@@ -12,7 +12,7 @@ is a conflict over resources. Our work brings together economics, mechanism
 design, distributed systems, cryptography, and open source development, aimed at
 research problems relevant to Ethereum. You can learn about our past research and
 work in progress in our
-[research problem database](https://www.flashbots.net/research-database). I administer the Flashbots research grants program ([FRP](https://github.com/flashbots/mev-research/tree/main),currently on hiatus). 
+[research problem database](https://www.flashbots.net/research-database). 
 
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
 Initiative for Cryptocurrencies and Contracts, where I've been since 2019. There
@@ -106,7 +106,9 @@ I helped design.
 - Organizer, [TLDR Conference](https://easychair.org/cfp/TLDR24) — The Latest in DeFi Research, 2024
 
 ## FRP
+I administer the Flashbots Research grant program, FRP, which is currently on hiatus. 
 
+- [FRP repo](https://github.com/flashbots/mev-research/tree/main)
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
 - [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
 - [FRP Unconference](https://collective.flashbots.net/t/frp-unconference/2969) — event page and agenda
