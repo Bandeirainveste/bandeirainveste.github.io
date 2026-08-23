@@ -50,13 +50,12 @@ James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelk
 
 **Workshop Organization**
 
-- Technical Committee, [IC3 Blockchain Camp](https://www.initc3.org/events) — annually, 2020–2025
-- Technical Committee, [IC3 Winter Retreat](https://www.initc3.org/events) — annually, 2020–2026
 - Organizer, [MEV-SBC '26](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2026-mev-sbc-26/5636) — Stanford University, July 2026
 - Organizer, [MEV-SBC '25](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2025-mev-sbc-25/4880) — UC Berkeley, August 2025
 - Organizer, [MEV-SBC '24](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2024-mev-sbc-24/3527) — Cornell Tech, August 2024
 - Organizer, [MEV-SBC '23](https://collective.flashbots.net/t/the-mev-workshop-at-the-science-of-blockchain-conference-2023-mev-sbc-23/2038) — Stanford University, August 2023
-- Organizer, [MEV-SBC '22](https://collective.flashbots.net/t/mev-workshop-at-the-science-of-blockchain-conference-2022/143) — Science of Blockchain Conference, September 2022
+- Technical Committee, [IC3 Blockchain Camp](https://www.initc3.org/events) — annually, 2020–2025
+- Technical Committee, [IC3 Winter Retreat](https://www.initc3.org/events) — annually, 2020–2026
 - Organizer, [DeFi Workshop at Financial Cryptography and Data Security (FC)](https://link.springer.com/book/10.1007/978-3-031-69231-4) — Willemstad, Curaçao, March 2024
 - Organizer, [TLDR Conference](https://easychair.org/cfp/TLDR24) — The Latest in DeFi Research, 2024
 
