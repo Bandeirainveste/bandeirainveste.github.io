@@ -4,7 +4,36 @@ layout: homepage
 
 ## About Me
 
-I am a..
+Hi, I'm Sarah. I lead the research organization at [Flashbots](https://www.flashbots.net/),
+where I've been since 2023. Flashbots is a research and development collective
+working on maximal extractable value — MEV — through open research and products.
+MEV arises whenever a privileged actor has control over a system in which there
+is a conflict over resources. Our work brings together economics, mechanism
+design, distributed systems, cryptography, and open source development, aimed at
+research problems relevant to Ethereum. You can learn about our past research and
+work in progress in our
+[research problem database](https://www.flashbots.net/research-database).
+
+I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
+Initiative for Cryptocurrencies and Contracts, where I've been since 2019. There
+I coordinate multidisciplinary, multi-campus research projects in blockchain and
+at the intersection of blockchain and AI, along with idea transfer to industry.
+
+Before moving into blockchain research management, I worked on a clinical trial
+team in [Brad Manor's lab](https://www.marcusinstituteforaging.org/who-we-are/profiles/brad-manor-phd)
+at the Hinda and Arthur Marcus Institute for Aging Research, using transcranial
+direct current stimulation (tDCS) in trials for longevity and the treatment of
+neurodegenerative illness.
+
+In addition to MEV, I get excited about metascience, open research, AI safety,
+and the application of compute to longevity research. I think this is the best
+time in history to be alive.
+
+Offline, I'm training a Bernese Mountain Dog mix puppy, reading a lot of fiction
+(some recent favorites: [Whistler](https://www.annpatchett.com/whistler) by Ann
+Patchett, [The Song of Achilles](https://madelinemiller.com/the-song-of-achilles/)
+by Madeline Miller, and [The Overstory](https://www.richardpowers.net/the-overstory/)
+by Richard Powers), and learning about forestry management.
 
 ## Selected Research
 
