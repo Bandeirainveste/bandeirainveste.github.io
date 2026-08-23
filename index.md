@@ -18,10 +18,10 @@ Andrés Fábrega, James Austgen, Samuel Breckenridge, Jay Yu, Amy Zhao, **Sarah 
 *Preprint, 2026*
 [[paper](https://arxiv.org/abs/2601.00523)]
 
-**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**
-James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels
-*Preprint, 2023. Superseded by Voting-Bloc Entropy and Liquefaction. \*Equal contribution.*
-[[paper](https://arxiv.org/abs/2311.03530)]
+**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**<br>
+James Austgen\*, Andrés Fábrega\*, **Sarah Allen**, Kushal Babel, Mahimna Kelkar, Ari Juels<br>
+*Preprint, 2023. Superseded by Voting-Bloc Entropy and Liquefaction. \*Equal contribution.*<br>
+[[paper](https://arxiv.org/abs/2311.03530)]<br>
 ▶ **[Watch my Devcon SEA talk on Dark DAOs](https://www.youtube.com/watch?v=dC3pIbvEte0)**
 
 **Liquefaction: Privately Liquefying Blockchain Assets**
