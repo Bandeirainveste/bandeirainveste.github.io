@@ -109,6 +109,7 @@ I helped design.
 I administer the Flashbots Research Proposals (FRP) grant program. 
 
 - [FRP Repo](https://github.com/flashbots/mev-research/tree/main) — grant giving is currently paused
+- [Completed FRPs](https://github.com/flashbots/mev-research/tree/main/FRPs/completed)
 - [FRP Year in Review](https://writings.flashbots.net/frp-year-in-review) — *Flashbots Writings*, July 2023
 - [Introduction to the FRP Unconference](https://www.youtube.com/watch?v=xyukZ98OKbY) — January 2024 *(recording)*
 - [FRP Unconference](https://collective.flashbots.net/t/frp-unconference/2969) — event page and agenda
