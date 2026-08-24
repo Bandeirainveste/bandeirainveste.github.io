@@ -4,8 +4,10 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Sarah. I lead the research org at [Flashbots](https://www.flashbots.net/),
-where I've been since 2022. Flashbots is an R&D organization founded to
+Hi, I'm Sarah. I have been leading or supporting highly technical research
+teams for seven years. I lead the research org at [Flashbots](https://www.flashbots.net/), where I've
+been since 2022 — I was hired to do research ops and still do the
+operational work alongside managing the team. Flashbots is an R&D organization founded to
 illuminate, democratize, and distribute maximal extractable value (MEV) through
 open research and products. MEV is the value extractable by any agent when a privileged
 actor holds ordering rights over a system in which participants compete for a scarce opportunity. I manage a multidisciplinary research team spanning economics, mechanism design, distributed systems, cryptography, and open-source development to work on problems relevant to Ethereum. You can learn about our work in progress in the
@@ -24,8 +26,8 @@ at the Marcus Institute for Aging Research, using transcranial direct current
 stimulation (tDCS) in clinical research on aging and neurodegenerative
 disease.
 
-In addition to MEV, I get excited about metascience, open research, AI safety and
-governance, and the application of compute to longevity research. I think this is
+In addition to MEV, I get excited about AI safety and
+governance, metascience, open research, and the application of compute to longevity research. I think this is
 the best time in history to be alive.
 
 Offline, I'm training a Bernese Mountain Dog mix puppy and reading a lot of fiction
