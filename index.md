@@ -21,7 +21,7 @@ from IC3 Co-Director [Ari Juels](https://www.arijuels.com/).
 Before moving into blockchain research management, I worked on a clinical trial
 team in [Brad Manor's lab](https://www.marcusinstituteforaging.org/who-we-are/profiles/brad-manor-phd)
 at the Marcus Institute for Aging Research, using transcranial direct current
-stimulation (tDCS) in trials on aging and for the treatment of neurodegenerative
+stimulation (tDCS) in clinical research on aging and neurodegenerative
 disease.
 
 In addition to MEV, I get excited about metascience, open research, AI safety and
