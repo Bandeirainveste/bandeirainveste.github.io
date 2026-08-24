@@ -10,9 +10,8 @@ illuminate, democratize, and distribute maximal extractable value (MEV) through
 open research and products. MEV is the value extractable by any agent when a privileged
 actor holds ordering rights over a system in which participants compete for a scarce opportunity. Our team brings
 together economics, mechanism design, distributed systems, cryptography, and open
-source development to work on problems relevant to Ethereum. You can learn about
-our past research and work in progress in our
-[research problem database](https://www.flashbots.net/research-database) and our [research publication website](https://flashbots.github.io/mev-research/).
+source development to work on problems relevant to Ethereum. You can learn about our work in progress in our
+[research problem database](https://www.flashbots.net/research-database) and our past research in our [research publication website](https://flashbots.github.io/mev-research/).
 
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
 Initiative for Cryptocurrencies and Contracts based at Cornell Tech, where I've been since 2019. There
