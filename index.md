@@ -15,7 +15,7 @@ our past research and work in progress in our
 [research problem database](https://www.flashbots.net/research-database).
 
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
-Initiative for Cryptocurrencies and Contracts, where I've been since 2019. There
+Initiative for Cryptocurrencies and Contracts based at Cornell Tech, where I've been since 2019. There
 I coordinate multidisciplinary, multi-campus research projects in blockchain and
 at the intersection of blockchain and AI, and work on moving ideas between
 academia and industry. I contribute directly to research projects with mentorship
