@@ -8,9 +8,7 @@ Hi, I'm Sarah. I lead the research org at [Flashbots](https://www.flashbots.net/
 where I've been since 2022. Flashbots is an R&D organization founded to
 illuminate, democratize, and distribute maximal extractable value (MEV) through
 open research and products. MEV is the value extractable by any agent when a privileged
-actor holds ordering rights over a system in which participants compete for a scarce opportunity. Our team brings
-together economics, mechanism design, distributed systems, cryptography, and open
-source development to work on problems relevant to Ethereum. You can learn about our work in progress in the
+actor holds ordering rights over a system in which participants compete for a scarce opportunity. I manage a multidisciplinary research team spanning economics, mechanism design, distributed systems, cryptography, and open-source development to work on problems relevant to Ethereum. You can learn about our work in progress in the
 [research problem database](https://www.flashbots.net/research-database) and our past research in the [research publication website](https://flashbots.github.io/mev-research/).
 
 I also serve as Research Program Manager for [IC3](https://www.initc3.org/), the
@@ -23,8 +21,8 @@ from IC3 Co-Director [Ari Juels](https://www.arijuels.com/).
 Before moving into blockchain research management, I worked on a clinical trial
 team in [Brad Manor's lab](https://www.marcusinstituteforaging.org/who-we-are/profiles/brad-manor-phd)
 at the Marcus Institute for Aging Research, using transcranial direct current
-stimulation (tDCS) in trials for longevity and the treatment of neurodegenerative
-illness.
+stimulation (tDCS) in trials on aging and for the treatment of neurodegenerative
+disease.
 
 In addition to MEV, I get excited about metascience, open research, AI safety and
 governance, and the application of compute to longevity research. I think this is
